@@ -1,0 +1,33 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/*
+    Any custom css, add it here
+*/
+
+body {
+  @apply bg-indigo-500;
+}
+
+.glow-border {
+  border: 2px dotted transparent;
+  border-image: linear-gradient(45deg, cyan, magenta) 1;
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.7);
+}
+
+.button {
+  border: solid 2px dodgerblue;
+  background-color: white;
+  color: dodgerblue;
+}
+
+.favorite::after {
+  content: "\2605"; /* Unicode for a filled star */
+  color: gold;
+  margin-right: 4px;
+  font-size: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

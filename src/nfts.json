@@ -1,0 +1,623 @@
+{
+    "ownedNfts": [
+      {
+        "contract": {
+          "address": "0x04C261927f1a188E6e088ae2334736b7A82Ac4c2",
+          "name": "5.00 ETH by Base",
+          "symbol": "Base Chain Raffle",
+          "totalSupply": null,
+          "tokenType": "ERC1155",
+          "contractDeployer": "0xA65f49F207FD07a5c3551D6eea8AB5C4ff977E1d",
+          "deployedBlockNumber": 47528568,
+          "openSeaMetadata": {
+            "floorPrice": null,
+            "collectionName": "5.00 ETH by Base",
+            "collectionSlug": "5-00-eth-by-base-1465",
+            "safelistRequestStatus": "not_requested",
+            "imageUrl": "https://raw.seadn.io/files/d5911d1b6ac1ab716ecfef6705709e9a.png",
+            "description": null,
+            "externalUrl": null,
+            "twitterUsername": null,
+            "discordUrl": null,
+            "bannerImageUrl": "https://raw.seadn.io/files/d5911d1b6ac1ab716ecfef6705709e9a.png",
+            "lastIngestedAt": "2024-07-13T23:47:22.000Z"
+          },
+          "isSpam": true,
+          "spamClassifications": [
+            "MissingFromMarketplace",
+            "SuspiciousMetadata"
+          ]
+        },
+        "tokenId": "0",
+        "tokenType": "ERC1155",
+        "name": null,
+        "description": null,
+        "tokenUri": "https://currymasala.net/cbaseccom.json",
+        "image": {
+          "cachedUrl": null,
+          "thumbnailUrl": null,
+          "pngUrl": null,
+          "contentType": null,
+          "size": null,
+          "originalUrl": null
+        },
+        "raw": {
+          "tokenUri": "https://currymasala.net/cbaseccom.json",
+          "metadata": {},
+          "error": null
+        },
+        "collection": {
+          "name": "5.00 ETH by Base",
+          "slug": "5-00-eth-by-base-1465",
+          "externalUrl": null,
+          "bannerImageUrl": null
+        },
+        "mint": {
+          "mintAddress": null,
+          "blockNumber": null,
+          "timestamp": null,
+          "transactionHash": null
+        },
+        "owners": null,
+        "timeLastUpdated": "2024-05-07T12:52:55.476Z",
+        "balance": "1",
+        "acquiredAt": {
+          "blockTimestamp": "2023-09-14T10:43:06Z",
+          "blockNumber": 47528775
+        }
+      },
+      {
+        "contract": {
+          "address": "0xA4c2B0e13B172D3f7A45F62eFa236b6184b3156d",
+          "name": "Artistic NFT",
+          "symbol": "ARTNFT",
+          "totalSupply": "5000",
+          "tokenType": "ERC721",
+          "contractDeployer": "0xA85f59F207FD07a5c3551D6eea8AB5C4ff888E3d",
+          "deployedBlockNumber": 47128568,
+          "openSeaMetadata": {
+            "floorPrice": 2.5,
+            "collectionName": "Artistic NFT Collection",
+            "collectionSlug": "artistic-nft-collection",
+            "safelistRequestStatus": "approved",
+            "imageUrl": "https://dl.openseauserdata.com/cache/originImage/files/ad48de709ee1fa6160b620a334fcfeb1.jpg",
+            "description": "An exclusive collection of artistic NFTs.",
+            "externalUrl": "https://artisticnft.com",
+            "twitterUsername": "ArtNFT",
+            "discordUrl": "https://discord.gg/artnft",
+            "bannerImageUrl": "https://dl.openseauserdata.com/cache/originImage/files/ad48de709ee1fa6160b620a334fcfeb1.jpg",
+            "lastIngestedAt": "2024-06-13T23:47:22.000Z"
+          },
+          "isSpam": false,
+          "spamClassifications": []
+        },
+        "tokenId": "1",
+        "tokenType": "ERC721",
+        "name": "Art NFT #1",
+        "description": "First piece in the Artistic NFT collection.",
+        "tokenUri": "https://artisticnft.com/metadata/1",
+        "image": {
+          "cachedUrl": "https://picsum.photos/id/0/5000/3333",
+          "thumbnailUrl": "https://picsum.photos/id/0/5000/3333",
+          "pngUrl": "https://picsum.photos/id/0/5000/3333",
+          "contentType": "image/png",
+          "size": 2048,
+          "originalUrl": "https://picsum.photos/id/0/5000/3333"
+        },
+        "raw": {
+          "tokenUri": "https://artisticnft.com/metadata/1",
+          "metadata": {
+            "name": "Art NFT #1",
+            "description": "First piece in the Artistic NFT collection.",
+            "image": "https://picsum.photos/id/0/5000/3333"
+          },
+          "error": null
+        },
+        "collection": {
+          "name": "Artistic NFT Collection",
+          "slug": "artistic-nft-collection",
+          "externalUrl": "https://artisticnft.com",
+          "bannerImageUrl": "https://example.com/images/banner1.png"
+        },
+        "mint": {
+          "mintAddress": "0xA85f59F207FD07a5c3551D6eea8AB5C4ff888E3d",
+          "blockNumber": 47128569,
+          "timestamp": "2023-08-01T15:30:00Z",
+          "transactionHash": "0xabcdef1234567890"
+        },
+        "owners": [
+          "0x1234567890abcdef1234567890abcdef12345678"
+        ],
+        "timeLastUpdated": "2024-06-01T10:00:00.000Z",
+        "balance": "1",
+        "acquiredAt": {
+          "blockTimestamp": "2023-08-01T15:30:00Z",
+          "blockNumber": 47128569
+        }
+      },
+      {
+        "contract": {
+          "address": "0xB7c261927f1a188E6e088ae2334736b7A82Ac4d3",
+          "name": "Digital Art",
+          "symbol": "DIGART",
+          "totalSupply": "10000",
+          "tokenType": "ERC721",
+          "contractDeployer": "0xB65f49F207FD07a5c3551D6eea8AB5C4ff977E2d",
+          "deployedBlockNumber": 48028568,
+          "openSeaMetadata": {
+            "floorPrice": 1,
+            "collectionName": "Digital Art Collection",
+            "collectionSlug": "digital-art-collection",
+            "safelistRequestStatus": "approved",
+            "imageUrl": "https://dl.openseauserdata.com/cache/originImage/files/b862754671e830570a59bdc07b978373.jpg",
+            "description": "A unique collection of digital art.",
+            "externalUrl": "https://digitalart.com",
+            "twitterUsername": "DigArt",
+            "discordUrl": "https://discord.gg/digart",
+            "bannerImageUrl": "https://dl.openseauserdata.com/cache/originImage/files/b862754671e830570a59bdc07b978373.jpg",
+            "lastIngestedAt": "2024-07-13T23:47:22.000Z"
+          },
+          "isSpam": false,
+          "spamClassifications": []
+        },
+        "tokenId": "2",
+        "tokenType": "ERC721",
+        "name": "Digital Art #1",
+        "description": "First piece in the Digital Art collection.",
+        "tokenUri": "https://digitalart.com/metadata/2",
+        "image": {
+          "cachedUrl": "https://example.com/images/digital1.png",
+          "thumbnailUrl": "https://example.com/images/digital1-thumb.png",
+          "pngUrl": "https://example.com/images/digital1.png",
+          "contentType": "image/png",
+          "size": 2048,
+          "originalUrl": "https://example.com/images/digital1.png"
+        },
+        "raw": {
+          "tokenUri": "https://digitalart.com/metadata/2",
+          "metadata": {
+            "name": "Digital Art #1",
+            "description": "First piece in the Digital Art collection.",
+            "image": "https://example.com/images/digital1.png"
+          },
+          "error": null
+        },
+        "collection": {
+          "name": "Digital Art Collection",
+          "slug": "digital-art-collection",
+          "externalUrl": "https://digitalart.com",
+          "bannerImageUrl": "https://example.com/images/banner2.png"
+        },
+        "mint": {
+          "mintAddress": "0xB65f49F207FD07a5c3551D6eea8AB5C4ff977E2d",
+          "blockNumber": 48028569,
+          "timestamp": "2023-07-14T15:30:00Z",
+          "transactionHash": "0xabcdef1234567890"
+        },
+        "owners": [
+          "0x1234567890abcdef1234567890abcdef12345679"
+        ],
+        "timeLastUpdated": "2024-07-13T10:00:00.000Z",
+        "balance": "1",
+        "acquiredAt": {
+          "blockTimestamp": "2023-07-14T15:30:00Z",
+          "blockNumber": 48028569
+        }
+      },
+      {
+        "contract": {
+          "address": "0xD8e362927f1a188E6e088ae2334736b7A82Ac5e4",
+          "name": "Crypto Collectible",
+          "symbol": "CRYPTOCOL",
+          "totalSupply": "3000",
+          "tokenType": "ERC721",
+          "contractDeployer": "0xD75f49F207FD07a5c3551D6eea8AB5C4ff977E3e",
+          "deployedBlockNumber": 48528568,
+          "openSeaMetadata": {
+            "floorPrice": 3,
+            "collectionName": "Crypto Collectible Collection",
+            "collectionSlug": "crypto-collectible-collection",
+            "safelistRequestStatus": "approved",
+            "imageUrl": "https://dl.openseauserdata.com/cache/originImage/files/46661b44d52a182666491254b7395bee.jpg",
+            "description": "A rare collection of crypto collectibles.",
+            "externalUrl": "https://cryptocollectible.com",
+            "twitterUsername": "CryptoCol",
+            "discordUrl": "https://discord.gg/cryptocol",
+            "bannerImageUrl": "https://dl.openseauserdata.com/cache/originImage/files/46661b44d52a182666491254b7395bee.jpg",
+            "lastIngestedAt": "2024-07-13T23:47:22.000Z"
+          },
+          "isSpam": false,
+          "spamClassifications": []
+        },
+        "tokenId": "3",
+        "tokenType": "ERC721",
+        "name": "Crypto Collectible #1",
+        "description": "First piece in the Crypto Collectible collection.",
+        "tokenUri": "https://cryptocollectible.com/metadata/3",
+        "image": {
+          "cachedUrl": "https://example.com/images/collectible1.png",
+          "thumbnailUrl": "https://example.com/images/collectible1-thumb.png",
+          "pngUrl": "https://example.com/images/collectible1.png",
+          "contentType": "image/png",
+          "size": 2048,
+          "originalUrl": "https://example.com/images/collectible1.png"
+        },
+        "raw": {
+          "tokenUri": "https://cryptocollectible.com/metadata/3",
+          "metadata": {
+            "name": "Crypto Collectible #1",
+            "description": "First piece in the Crypto Collectible collection.",
+            "image": "https://example.com/images/collectible1.png"
+          },
+          "error": null
+        },
+        "collection": {
+          "name": "Crypto Collectible Collection",
+          "slug": "crypto-collectible-collection",
+          "externalUrl": "https://cryptocollectible.com",
+          "bannerImageUrl": "https://example.com/images/banner3.png"
+        },
+        "mint": {
+          "mintAddress": "0xD75f49F207FD07a5c3551D6eea8AB5C4ff977E3e",
+          "blockNumber": 48528569,
+          "timestamp": "2023-06-20T15:30:00Z",
+          "transactionHash": "0xabcdef1234567890"
+        },
+        "owners": [
+          "0x1234567890abcdef1234567890abcdef12345680"
+        ],
+        "timeLastUpdated": "2024-06-20T10:00:00.000Z",
+        "balance": "1",
+        "acquiredAt": {
+          "blockTimestamp": "2023-06-20T15:30:00Z",
+          "blockNumber": 48528569
+        }
+      },
+      {
+        "contract": {
+          "address": "0xE9f472927f1a188E6e088ae2334736b7A82Ac6f5",
+          "name": "Rare Art Piece",
+          "symbol": "RAREART",
+          "totalSupply": "1000",
+          "tokenType": "ERC721",
+          "contractDeployer": "0xE85f49F207FD07a5c3551D6eea8AB5C4ff977E4f",
+          "deployedBlockNumber": 49028568,
+          "openSeaMetadata": {
+            "floorPrice": 5,
+            "collectionName": "Rare Art Collection",
+            "collectionSlug": "rare-art-collection",
+            "safelistRequestStatus": "approved",
+            "imageUrl": "https://dl.openseauserdata.com/cache/originImage/files/3cf9e603c260e4ccf91b492b69729836.png",
+            "description": "An exclusive collection of rare art pieces.",
+            "externalUrl": "https://rareart.com",
+            "twitterUsername": "RareArt",
+            "discordUrl": "https://discord.gg/rareart",
+            "bannerImageUrl": "https://dl.openseauserdata.com/cache/originImage/files/3cf9e603c260e4ccf91b492b69729836.png",
+            "lastIngestedAt": "2024-07-13T23:47:22.000Z"
+          },
+          "isSpam": false,
+          "spamClassifications": []
+        },
+        "tokenId": "4",
+        "tokenType": "ERC721",
+        "name": "Rare Art Piece #1",
+        "description": "First piece in the Rare Art collection.",
+        "tokenUri": "https://rareart.com/metadata/4",
+        "image": {
+          "cachedUrl": "https://example.com/images/rare1.png",
+          "thumbnailUrl": "https://example.com/images/rare1-thumb.png",
+          "pngUrl": "https://example.com/images/rare1.png",
+          "contentType": "image/png",
+          "size": 2048,
+          "originalUrl": "https://example.com/images/rare1.png"
+        },
+        "raw": {
+          "tokenUri": "https://rareart.com/metadata/4",
+          "metadata": {
+            "name": "Rare Art Piece #1",
+            "description": "First piece in the Rare Art collection.",
+            "image": "https://example.com/images/rare1.png"
+          },
+          "error": null
+        },
+        "collection": {
+          "name": "Rare Art Collection",
+          "slug": "rare-art-collection",
+          "externalUrl": "https://rareart.com",
+          "bannerImageUrl": "https://example.com/images/banner4.png"
+        },
+        "mint": {
+          "mintAddress": "0xE85f49F207FD07a5c3551D6eea8AB5C4ff977E4f",
+          "blockNumber": 49028569,
+          "timestamp": "2023-05-15T15:30:00Z",
+          "transactionHash": "0xabcdef1234567890"
+        },
+        "owners": [
+          "0x1234567890abcdef1234567890abcdef12345681"
+        ],
+        "timeLastUpdated": "2024-05-15T10:00:00.000Z",
+        "balance": "1",
+        "acquiredAt": {
+          "blockTimestamp": "2023-05-15T15:30:00Z",
+          "blockNumber": 49028569
+        }
+      },
+      {
+        "contract": {
+          "address": "0xF1a683927f1a188E6e088ae2334736b7A82Ac7f6",
+          "name": "Unique Collectible",
+          "symbol": "UNIQCOL",
+          "totalSupply": "2000",
+          "tokenType": "ERC721",
+          "contractDeployer": "0xF85f49F207FD07a5c3551D6eea8AB5C4ff977E5f",
+          "deployedBlockNumber": 49528568,
+          "openSeaMetadata": {
+            "floorPrice": 4,
+            "collectionName": "Unique Collectible Collection",
+            "collectionSlug": "unique-collectible-collection",
+            "safelistRequestStatus": "approved",
+            "imageUrl": "https://dl.openseauserdata.com/cache/originImage/files/559f8f9f607f37872ae4b5a4aa6f47fe.jpg",
+            "description": "A distinctive collection of unique collectibles.",
+            "externalUrl": "https://uniquecollectible.com",
+            "twitterUsername": "UniqCol",
+            "discordUrl": "https://discord.gg/uniqcol",
+            "bannerImageUrl": "https://dl.openseauserdata.com/cache/originImage/files/559f8f9f607f37872ae4b5a4aa6f47fe.jpg",
+            "lastIngestedAt": "2024-07-13T23:47:22.000Z"
+          },
+          "isSpam": false,
+          "spamClassifications": []
+        },
+        "tokenId": "5",
+        "tokenType": "ERC721",
+        "name": "Unique Collectible #1",
+        "description": "First piece in the Unique Collectible collection.",
+        "tokenUri": "https://uniquecollectible.com/metadata/5",
+        "image": {
+          "cachedUrl": "https://example.com/images/unique1.png",
+          "thumbnailUrl": "https://example.com/images/unique1-thumb.png",
+          "pngUrl": "https://example.com/images/unique1.png",
+          "contentType": "image/png",
+          "size": 2048,
+          "originalUrl": "https://example.com/images/unique1.png"
+        },
+        "raw": {
+          "tokenUri": "https://uniquecollectible.com/metadata/5",
+          "metadata": {
+            "name": "Unique Collectible #1",
+            "description": "First piece in the Unique Collectible collection.",
+            "image": "https://example.com/images/unique1.png"
+          },
+          "error": null
+        },
+        "collection": {
+          "name": "Unique Collectible Collection",
+          "slug": "unique-collectible-collection",
+          "externalUrl": "https://uniquecollectible.com",
+          "bannerImageUrl": "https://example.com/images/banner5.png"
+        },
+        "mint": {
+          "mintAddress": "0xF85f49F207FD07a5c3551D6eea8AB5C4ff977E5f",
+          "blockNumber": 49528569,
+          "timestamp": "2023-04-10T15:30:00Z",
+          "transactionHash": "0xabcdef1234567890"
+        },
+        "owners": [
+          "0x1234567890abcdef1234567890abcdef12345682"
+        ],
+        "timeLastUpdated": "2024-04-10T10:00:00.000Z",
+        "balance": "1",
+        "acquiredAt": {
+          "blockTimestamp": "2023-04-10T15:30:00Z",
+          "blockNumber": 49528569
+        }
+      },
+      {
+        "contract": {
+          "address": "0xA2b683927f1a188E6e088ae2334736b7A82Ac8f7",
+          "name": "Vintage NFT",
+          "symbol": "VINTAGE",
+          "totalSupply": "1500",
+          "tokenType": "ERC721",
+          "contractDeployer": "0xA85f49F207FD07a5c3551D6eea8AB5C4ff977E6f",
+          "deployedBlockNumber": 50028568,
+          "openSeaMetadata": {
+            "floorPrice": 6,
+            "collectionName": "Vintage NFT Collection",
+            "collectionSlug": "vintage-nft-collection",
+            "safelistRequestStatus": "approved",
+            "imageUrl": "https://picsum.photos/id/21/3008/2008",
+            "description": "A nostalgic collection of vintage NFTs.",
+            "externalUrl": "https://vintagenft.com",
+            "twitterUsername": "VintageNFT",
+            "discordUrl": "https://discord.gg/vintagenft",
+            "bannerImageUrl": "https://example.com/images/banner6.png",
+            "lastIngestedAt": "2024-07-13T23:47:22.000Z"
+          },
+          "isSpam": false,
+          "spamClassifications": []
+        },
+        "tokenId": "6",
+        "tokenType": "ERC721",
+        "name": "Vintage NFT #1",
+        "description": "First piece in the Vintage NFT collection.",
+        "tokenUri": "https://vintagenft.com/metadata/6",
+        "image": {
+          "cachedUrl": "https://example.com/images/vintage1.png",
+          "thumbnailUrl": "https://example.com/images/vintage1-thumb.png",
+          "pngUrl": "https://example.com/images/vintage1.png",
+          "contentType": "image/png",
+          "size": 2048,
+          "originalUrl": "https://example.com/images/vintage1.png"
+        },
+        "raw": {
+          "tokenUri": "https://vintagenft.com/metadata/6",
+          "metadata": {
+            "name": "Vintage NFT #1",
+            "description": "First piece in the Vintage NFT collection.",
+            "image": "https://example.com/images/vintage1.png"
+          },
+          "error": null
+        },
+        "collection": {
+          "name": "Vintage NFT Collection",
+          "slug": "vintage-nft-collection",
+          "externalUrl": "https://vintagenft.com",
+          "bannerImageUrl": "https://example.com/images/banner6.png"
+        },
+        "mint": {
+          "mintAddress": "0xA85f49F207FD07a5c3551D6eea8AB5C4ff977E6f",
+          "blockNumber": 50028569,
+          "timestamp": "2023-03-12T15:30:00Z",
+          "transactionHash": "0xabcdef1234567890"
+        },
+        "owners": [
+          "0x1234567890abcdef1234567890abcdef12345683"
+        ],
+        "timeLastUpdated": "2024-03-12T10:00:00.000Z",
+        "balance": "1",
+        "acquiredAt": {
+          "blockTimestamp": "2023-03-12T15:30:00Z",
+          "blockNumber": 50028569
+        }
+      },
+      {
+        "contract": {
+          "address": "0xB3c683927f1a188E6e088ae2334736b7A82Ac9f8",
+          "name": "Fantasy Art",
+          "symbol": "FANTASY",
+          "totalSupply": "4000",
+          "tokenType": "ERC721",
+          "contractDeployer": "0xB85f49F207FD07a5c3551D6eea8AB5C4ff977E7f",
+          "deployedBlockNumber": 50528568,
+          "openSeaMetadata": {
+            "floorPrice": 2,
+            "collectionName": "Fantasy Art Collection",
+            "collectionSlug": "fantasy-art-collection",
+            "safelistRequestStatus": "approved",
+            "imageUrl": "https://example.com/images/fantasy1.png",
+            "description": "A magical collection of fantasy art NFTs.",
+            "externalUrl": "https://fantasyart.com",
+            "twitterUsername": "FantasyArt",
+            "discordUrl": "https://discord.gg/fantasyart",
+            "bannerImageUrl": "https://example.com/images/banner7.png",
+            "lastIngestedAt": "2024-07-13T23:47:22.000Z"
+          },
+          "isSpam": false,
+          "spamClassifications": []
+        },
+        "tokenId": "7",
+        "tokenType": "ERC721",
+        "name": "Fantasy Art #1",
+        "description": "First piece in the Fantasy Art collection.",
+        "tokenUri": "https://fantasyart.com/metadata/7",
+        "image": {
+          "cachedUrl": "https://example.com/images/fantasy1.png",
+          "thumbnailUrl": "https://example.com/images/fantasy1-thumb.png",
+          "pngUrl": "https://example.com/images/fantasy1.png",
+          "contentType": "image/png",
+          "size": 2048,
+          "originalUrl": "https://example.com/images/fantasy1.png"
+        },
+        "raw": {
+          "tokenUri": "https://fantasyart.com/metadata/7",
+          "metadata": {
+            "name": "Fantasy Art #1",
+            "description": "First piece in the Fantasy Art collection.",
+            "image": "https://example.com/images/fantasy1.png"
+          },
+          "error": null
+        },
+        "collection": {
+          "name": "Fantasy Art Collection",
+          "slug": "fantasy-art-collection",
+          "externalUrl": "https://fantasyart.com",
+          "bannerImageUrl": "https://example.com/images/banner7.png"
+        },
+        "mint": {
+          "mintAddress": "0xB85f49F207FD07a5c3551D6eea8AB5C4ff977E7f",
+          "blockNumber": 50528569,
+          "timestamp": "2023-02-10T15:30:00Z",
+          "transactionHash": "0xabcdef1234567890"
+        },
+        "owners": [
+          "0x1234567890abcdef1234567890abcdef12345684"
+        ],
+        "timeLastUpdated": "2024-02-10T10:00:00.000Z",
+        "balance": "1",
+        "acquiredAt": {
+          "blockTimestamp": "2023-02-10T15:30:00Z",
+          "blockNumber": 50528569
+        }
+      },
+      {
+        "contract": {
+          "address": "0xC4d683927f1a188E6e088ae2334736b7A82Ac0f9",
+          "name": "Mythical Creatures",
+          "symbol": "MYTHCRE",
+          "totalSupply": "3500",
+          "tokenType": "ERC721",
+          "contractDeployer": "0xC85f49F207FD07a5c3551D6eea8AB5C4ff977E8f",
+          "deployedBlockNumber": 51028568,
+          "openSeaMetadata": {
+            "floorPrice": 2.8,
+            "collectionName": "Mythical Creatures Collection",
+            "collectionSlug": "mythical-creatures-collection",
+            "safelistRequestStatus": "approved",
+            "imageUrl": "https://picsum.photos/id/23/3887/4899",
+            "description": "A mesmerizing collection of mythical creatures.",
+            "externalUrl": "https://mythicalcreatures.com",
+            "twitterUsername": "MythicalCreatures",
+            "discordUrl": "https://discord.gg/mythicalcreatures",
+            "bannerImageUrl": "https://example.com/images/banner8.png",
+            "lastIngestedAt": "2024-07-13T23:47:22.000Z"
+          },
+          "isSpam": false,
+          "spamClassifications": []
+        },
+        "tokenId": "8",
+        "tokenType": "ERC721",
+        "name": "Mythical Creature #1",
+        "description": "First piece in the Mythical Creatures collection.",
+        "tokenUri": "https://mythicalcreatures.com/metadata/8",
+        "image": {
+          "cachedUrl": "https://example.com/images/mythical1.png",
+          "thumbnailUrl": "https://example.com/images/mythical1-thumb.png",
+          "pngUrl": "https://example.com/images/mythical1.png",
+          "contentType": "image/png",
+          "size": 2048,
+          "originalUrl": "https://example.com/images/mythical1.png"
+        },
+        "raw": {
+          "tokenUri": "https://mythicalcreatures.com/metadata/8",
+          "metadata": {
+            "name": "Mythical Creature #1",
+            "description": "First piece in the Mythical Creatures collection.",
+            "image": "https://example.com/images/mythical1.png"
+          },
+          "error": null
+        },
+        "collection": {
+          "name": "Mythical Creatures Collection",
+          "slug": "mythical-creatures-collection",
+          "externalUrl": "https://mythicalcreatures.com",
+          "bannerImageUrl": "https://example.com/images/banner8.png"
+        },
+        "mint": {
+          "mintAddress": "0xC85f49F207FD07a5c3551D6eea8AB5C4ff977E8f",
+          "blockNumber": 51028569,
+          "timestamp": "2023-01-15T15:30:00Z",
+          "transactionHash": "0xabcdef1234567890"
+        },
+        "owners": [
+          "0x1234567890abcdef1234567890abcdef12345685"
+        ],
+        "timeLastUpdated": "2024-01-15T10:00:00.000Z",
+        "balance": "1",
+        "acquiredAt": {
+          "blockTimestamp": "2023-01-15T15:30:00Z",
+          "blockNumber": 51028569
+        }
+      }
+    ],
+    "pageKey": "NEXT_PAGE_KEY"
+  }
